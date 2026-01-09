@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Background/T_Background.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Misc/T_Cross.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Misc/T_Exclamation.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Tanuki/T_Tanuki_Attack.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Tanuki/T_Tanuki_Defeated.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Tanuki/T_Tanuki_Idle.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Toad/T_Toad_Attack.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Toad/T_Toad_Defeated.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Toad/T_Toad_Idle.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Maps/MAP_Duel.umap",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Blueprints/BP_Samurai.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Background/T_Background_Sprite.uasset",
+				"D:/EPIC/UE_5.2/Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Misc/T_Cross_Sprite.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Misc/T_Exclamation_Sprite.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Tanuki/T_Tanuki_Attack_Sprite.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Tanuki/T_Tanuki_Defeated_Sprite.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Tanuki/T_Tanuki_Idle_Sprite.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Toad/T_Toad_Attack_Sprite.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Toad/T_Toad_Defeated_Sprite.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/PaperAssets/Toad/T_Toad_Idle_Sprite.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Blueprints/BP_Samurai_Player.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Blueprints/BP_Samurai_NPC.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Blueprints/GM_Duel.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Blueprints/Enums/E_Phase.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Blueprints/BP_Exclamation.uasset"
+			]
+		}
+	]
+}
