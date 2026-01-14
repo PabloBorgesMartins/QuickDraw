@@ -30,7 +30,9 @@
 				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Blueprints/BP_Samurai_NPC.uasset",
 				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Blueprints/GM_Duel.uasset",
 				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Blueprints/Enums/E_Phase.uasset",
-				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Blueprints/BP_Exclamation.uasset"
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Blueprints/BP_Exclamation.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Input/Actions/IA_Attack.uasset",
+				"C:/Users/Pablo/Desktop/GIT/GAMES/QuicDraw/Content/Input/IMC_Duel.uasset"
 			]
 		}
 	]
